@@ -1,3 +1,5 @@
 # TicTacToe
 
-![tictactoe](C:\Users\micha\Documents\GitHub\Java-Nauka\kolkoiKrzyzyk\tictactoe.png)
+<p align="center">
+  <img src="https://github.com/m-dabrowsky/Java-Nauka/blob/main/kolkoiKrzyzyk/tictactoe.png" width="285">
+</p>
