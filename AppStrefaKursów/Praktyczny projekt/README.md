@@ -1,8 +1,10 @@
 # ERP System
 
-![Screenshot_3](C:\Users\micha\Documents\GitHub\Java-Nauka\AppStrefaKursów\Praktyczny projekt\img\Screenshot_3.png)
+<p align="center">
+  <img src="https://github.com/m-dabrowsky/Java-Nauka/blob/main/AppStrefaKurs%C3%B3w/Praktyczny%20projekt/img/Screenshot_1.png" >
+  <img src="https://github.com/m-dabrowsky/Java-Nauka/blob/main/AppStrefaKurs%C3%B3w/Praktyczny%20projekt/img/Screenshot_2.png" >
+  <img src="https://github.com/m-dabrowsky/Java-Nauka/blob/main/AppStrefaKurs%C3%B3w/Praktyczny%20projekt/img/Screenshot_3.png" >
+</p>
 
-![Screenshot_1](C:\Users\micha\Documents\GitHub\Java-Nauka\AppStrefaKursów\Praktyczny projekt\img\Screenshot_1.png)
 
-![Screenshot_2](C:\Users\micha\Documents\GitHub\Java-Nauka\AppStrefaKursów\Praktyczny projekt\img\Screenshot_2.png)
 
