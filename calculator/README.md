@@ -1,3 +1,5 @@
 # Calculator App
 
-![kalkulator](C:\Users\micha\Documents\GitHub\Java-Nauka\calculator\kalkulator.png)
+<p align="center">
+  <img src="https://github.com/m-dabrowsky/Java-Nauka/blob/main/calculator/calc.png" width="285">
+</p>
