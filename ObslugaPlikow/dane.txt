@@ -1,0 +1,35 @@
+Witaj Mój Pliku. Obsługuje trudne plikiJestem liczbą numer: 0, a moja wartość to: 1
+Jestem liczbą numer: 1, a moja wartość to: 2
+Jestem liczbą numer: 2, a moja wartość to: 4
+Jestem liczbą numer: 3, a moja wartość to: 5
+Jestem liczbą numer: 4, a moja wartość to: 7
+Jestem liczbą numer: 0, a moja wartość to: 1
+Jestem liczbą numer: 1, a moja wartość to: 2
+Jestem liczbą numer: 2, a moja wartość to: 4
+Jestem liczbą numer: 3, a moja wartość to: 5
+Jestem liczbą numer: 4, a moja wartość to: 7
+Jestem liczbą numer: 0, a moja wartość to: 1
+Jestem liczbą numer: 1, a moja wartość to: 2
+Jestem liczbą numer: 2, a moja wartość to: 4
+Jestem liczbą numer: 3, a moja wartość to: 5
+Jestem liczbą numer: 4, a moja wartość to: 7
+Jestem liczbą numer: 0, a moja wartość to: 1
+Jestem liczbą numer: 1, a moja wartość to: 2
+Jestem liczbą numer: 2, a moja wartość to: 4
+Jestem liczbą numer: 3, a moja wartość to: 5
+Jestem liczbą numer: 4, a moja wartość to: 7
+
+ Jestem liczbą numer: 0, a moja wartość to: 1
+
+ Jestem liczbą numer: 1, a moja wartość to: 2
+
+ Jestem liczbą numer: 2, a moja wartość to: 4
+
+ Jestem liczbą numer: 3, a moja wartość to: 5
+
+ Jestem liczbą numer: 4, a moja wartość to: 7
+Jestem liczbą numer: 0, a moja wartość to: 1
+Jestem liczbą numer: 1, a moja wartość to: 2
+Jestem liczbą numer: 2, a moja wartość to: 4
+Jestem liczbą numer: 3, a moja wartość to: 5
+Jestem liczbą numer: 4, a moja wartość to: 7
